@@ -33,7 +33,7 @@ body{
 }
 
 .slider{
-    -webkit-appearance: none;
+    -webkit-compatibilidade: none;
     width: 100%;
     border-radius: 5px ;
     background: rgb(233, 233, 233);
